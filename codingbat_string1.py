@@ -1,7 +1,4 @@
 
-#Nobody likes a cheater and you will eventually get caught,
-#so use this for reference only and make sure you at least
-#understand what is being done.
 
 """
 String-1 > hello_name
