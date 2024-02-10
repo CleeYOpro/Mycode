@@ -26,3 +26,4 @@ def onKeyHold(keys):
         if star2.roundness >= 100:
             star2.roundness = 0
     pass
+
